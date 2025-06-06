@@ -1,0 +1,13 @@
+.logo {
+	height: 10rem;
+	display: inline-flex;
+	/* display: block; */
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	z-index: 100;
+}
+	.NavLinkLogo {
+		z-index: 99;
+		justify-content: flex-start !important;
+	}
