@@ -175,6 +175,7 @@ object-position: center;
 	display: inline-flex;
 	padding: 0rem 2rem 0rem 0rem !important;
 	margin: 0 !important;
+	text-shadow: none !important;
 	    line-height: 1;
 }
 .modalh2, .modalh3, .modalBullet, .modalBullet li {
