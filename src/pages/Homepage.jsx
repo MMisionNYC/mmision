@@ -13,7 +13,6 @@ export default function Homepage() {
         <meta name="description" content="Welcome to Melissa Mision's portfolio home page." />
         <meta property="og:image" content="https://www.melissamision.com/homepage-background.jpg" />
       </Helmet>
-      <h1>Home Page</h1>
 		<main className={styles.homepage}>
 			<PageNav />
 			<section>
