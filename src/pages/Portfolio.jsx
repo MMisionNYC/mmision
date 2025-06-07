@@ -6,6 +6,12 @@ import styles from "./Work.module.css";
 
 export default function Portfolio() {
 	return (
+	<>
+		<Helmet>
+			<title>Portfolio | Melissa Mision</title>
+			<meta name="description" content="Melissa Mision's professional portfolio, featuring works from development, fine arts and digital illustration." />
+			<meta property="og:image" content="https://www.melissamision.com/workpage-banner.jpg" />
+			</Helmet>
 		<main className={styles.workPage}>
 			<PageNav />
 			<div className={styles.workContainer}>
@@ -46,5 +52,6 @@ Digital illustration has digital drawings/concepts and animations. Fine arts has
 				</section>
 			</div>
 		</main>
+		</>
 	);
 }
