@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import styles from "./Work.module.css";
 import PageNav from "../components/PageNav";
 import GalleryList from "../components/GalleryList";
@@ -8,6 +9,12 @@ import GalleryList from "../components/GalleryList";
 
 export default function DigitalArt() {
 	return (
+			<>
+			  <Helmet>
+				<title>Digital Illustrations | Melissa Mision</title>
+				<meta name="description" content="Digital illustrations done by Melissa Mision. Created with Aseprite, Photoshop, Wacom Intuos Tablet." />
+				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
+			  </Helmet>
 		<main className={styles.workPageGrid}>
 			<PageNav />
 			<div className={styles.workContainer}>
@@ -27,5 +34,6 @@ export default function DigitalArt() {
 				</section>
 			</div>
 		</main>
+		</>
 	);
 }

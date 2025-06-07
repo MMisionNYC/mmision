@@ -1,9 +1,16 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import PageNav from "../components/PageNav";
 import styles from "./About.module.css";
 
 export default function About() {
 	return (
+			<>
+			  <Helmet>
+				<title>About | Melissa Mision</title>
+				<meta name="description" content="About Melissa Mision, contact, resume and github information." />
+				<meta property="og:image" content="https://www.melissamision.com/aboutPage-Container-Background.jpg" />
+			  </Helmet>
 		<main className={styles.aboutPage}>
 			<PageNav />
 			<div className={styles.aboutContainer}>
@@ -39,5 +46,6 @@ export default function About() {
 				</section>
 			</div>
 		</main>
+		</>
 	);
 }

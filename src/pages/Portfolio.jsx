@@ -1,4 +1,5 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import { Link } from "react-router-dom";
 import PageNav from "../components/PageNav";
 import styles from "./Work.module.css";

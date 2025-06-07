@@ -1,10 +1,17 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import styles from "./Work.module.css";
 import PageNav from "../components/PageNav";
 import GalleryList from "../components/GalleryList";
 
 export default function Development() {
 	return (
+			<>
+			  <Helmet>
+				<title>Development | Melissa Mision</title>
+				<meta name="description" content="Development projects by Melissa Mision" />
+				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
+			  </Helmet>
 			<main className={styles.workPageGrid}>
 			<PageNav />
 			<div className={styles.workContainer}>
@@ -22,5 +29,6 @@ export default function Development() {
 				</section>
 			</div>
 		</main>
+		</>
 	);
 }

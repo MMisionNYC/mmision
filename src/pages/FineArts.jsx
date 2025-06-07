@@ -1,10 +1,17 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 import styles from "./Work.module.css";
 import PageNav from "../components/PageNav";
 import GalleryList from "../components/GalleryList";
 
 export default function FineArts() {
 	return (
+			<>
+			  <Helmet>
+				<title>Fine Arts | Melissa Mision</title>
+				<meta name="description" content="Traditional Illustrations and Fine Arts by Melissa Mision" />
+				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
+			  </Helmet>
 		<main className={styles.workPageGrid}>
 			<PageNav />
 			<div className={styles.workContainer}>
@@ -26,5 +33,6 @@ export default function FineArts() {
 				</section>
 			</div>
 		</main>
+		</>
 	);
 }
