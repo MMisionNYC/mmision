@@ -2,6 +2,7 @@
 
 User-agent: *
 Disallow: /slot-gacor/
+Disallow: /masih-belajar/
 Allow: /
 
 # Optional: block other spammy or suspicious paths
