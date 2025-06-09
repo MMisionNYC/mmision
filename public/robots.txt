@@ -1,3 +1,11 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt for https://www.melissamision.com
+
 User-agent: *
-Disallow:
+Disallow: /slot-gacor/
+Disallow: /masih-belajar/
+Allow: /
+
+# Optional: block other spammy or suspicious paths
+# Disallow: /some-other-spammy-path/
+
+Sitemap: https://www.melissamision.com/sitemap.
