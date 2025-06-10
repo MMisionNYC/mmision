@@ -8,4 +8,4 @@ Allow: /
 # Optional: block other spammy or suspicious paths
 # Disallow: /some-other-spammy-path/
 
-Sitemap: https://www.melissamision.com/sitemap.
+Sitemap: https://www.melissamision.com/sitemap.xml
