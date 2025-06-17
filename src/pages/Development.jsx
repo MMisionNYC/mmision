@@ -9,6 +9,7 @@ export default function Development() {
 			<>
 			  <Helmet>
 				<title>Development | Melissa Mision</title>
+				<link rel="canonical" href="https://www.melissamision.com/development" />
 				<meta name="description" content="Development projects by Melissa Mision" />
 				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
 			  </Helmet>
