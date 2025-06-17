@@ -8,6 +8,7 @@ export default function About() {
 			<>
 			  <Helmet>
 				<title>About | Melissa Mision</title>
+				<link rel="canonical" href="https://www.melissamision.com/about" />
 				<meta name="description" content="About Melissa Mision, contact, resume and github information." />
 				<meta property="og:image" content="https://www.melissamision.com/aboutPage-Container-Background.jpg" />
 			  </Helmet>
