@@ -11,7 +11,8 @@ export default function Homepage() {
       <Helmet>
         <title>Home | Melissa Mision</title>
         <meta name="description" content="Welcome to Melissa Mision's portfolio home page." />
-        <meta property="og:image" content="https://www.melissamision.com/homepage-background.jpg" />
+        <link rel="canonical" href="https://www.melissamision.com/" />
+	<meta property="og:image" content="https://www.melissamision.com/homepage-background.jpg" />
       </Helmet>
 		<main className={styles.homepage}>
 			<PageNav />
