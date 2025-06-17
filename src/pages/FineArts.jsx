@@ -9,6 +9,7 @@ export default function FineArts() {
 			<>
 			  <Helmet>
 				<title>Fine Arts | Melissa Mision</title>
+				<link rel="canonical" href="https://www.melissamision.com/finearts" />
 				<meta name="description" content="Traditional Illustrations and Fine Arts by Melissa Mision" />
 				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
 			  </Helmet>
