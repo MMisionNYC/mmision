@@ -12,6 +12,7 @@ export default function DigitalArt() {
 			<>
 			  <Helmet>
 				<title>Digital Illustrations | Melissa Mision</title>
+				<link rel="canonical" href="https://www.melissamision.com/digitalillustration" />
 				<meta name="description" content="Digital illustrations done by Melissa Mision. Created with Aseprite, Photoshop, Wacom Intuos Tablet." />
 				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
 			  </Helmet>
