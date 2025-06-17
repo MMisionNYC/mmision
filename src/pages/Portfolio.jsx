@@ -9,6 +9,7 @@ export default function Portfolio() {
 	<>
 		<Helmet>
 			<title>Portfolio | Melissa Mision</title>
+			<link rel="canonical" href="https://www.melissamision.com/portfolio" />
 			<meta name="description" content="Melissa Mision's professional portfolio, featuring works from development, fine arts and digital illustration." />
 			<meta property="og:image" content="https://www.melissamision.com/workpage-banner.jpg" />
 			</Helmet>
