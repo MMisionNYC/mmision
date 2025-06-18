@@ -21,7 +21,7 @@ function App() {
 					<Route path="development" element={<Development />} />
 		  			<Route path="digitalIllustration" element={<DigitalIllustration />} />
 					<Route path="fineArts" element={<FineArts />} />
-			         	<Route path="slot-gacor*" element={<SlotGacor404 />} />
+			         	<Route path="slot-gacor/*" element={<SlotGacor404 />} />
 				</Routes>
 			</Suspense>
 	);
