@@ -2,7 +2,7 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 
-function SlotGacor404() {
+export default function SlotGacor404() {
   return (
     <>
       <Helmet>
