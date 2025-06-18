@@ -1,5 +1,6 @@
 // SlotGacor404.jsx
-import { Helmet } from "react-helmet";
+import React from 'react';
+import { Helmet } from 'react-helmet';
 
 function SlotGacor404() {
   return (
