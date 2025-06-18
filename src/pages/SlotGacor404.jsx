@@ -16,5 +16,3 @@ export default function SlotGacor404() {
     </>
   );
 }
-
-export default SlotGacor404;
