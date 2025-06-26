@@ -2,3 +2,6 @@
 # Force HTTPS and www
 http://melissamision.com/* https://www.melissamision.com/:splat 301!
 https://melissamision.com/* https://www.melissamision.com/:splat 301!
+
+# Redirect Netlify subdomain to www
+https://melissamision.netlify.app/* https://www.melissamision.com/:splat 301!
