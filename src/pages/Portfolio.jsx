@@ -34,7 +34,7 @@ Digital illustration has digital drawings/concepts and animations. Fine arts has
 						</div>
 					</div>
 					<div className={styles.bannerContainer}>
-						<Link reloadDocument to={"/Development"}>
+						<Link reloadDocument to={"./src/pages/Development"}>
 							<div className={styles.dev}>
 								<h2>Development</h2>
 							</div>
