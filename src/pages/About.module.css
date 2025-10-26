@@ -30,7 +30,7 @@
         flex: 50%;
 }
 	.aboutContainer {
-		background-image: linear-gradient(270deg, rgb(0 145 213 / 0%), rgb(0 44 68 / 0%), rgb(1 0 53 / 83%)), url('/aboutPage-Container-Background.jpg');
+		background-image:linear-gradient(270deg,#0091d500,#00243894,#000016ed),url('/aboutPage-Container-Background.jpg');
 		display: inline-flex;
 		flex-wrap: wrap;
 		flex-direction: row;
