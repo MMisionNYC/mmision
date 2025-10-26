@@ -317,9 +317,6 @@ h2 {
 		width: fit-content;
 		height: auto !important;
 	}
-	.workPage h2 {
-		        background: linear-gradient(90deg, #4ad9cf, #ffffff 90%);
-	}
 	.contactPage h2 {
 		color: white !important;
 	}
@@ -331,7 +328,7 @@ h2 {
 } */
 
 	.workPageh1Color {
-		color: #4ad9cf !important;
+		color: #d3003d !important;
   		font-family: "Caveat", cursive;
         font-size: 3.5rem;
 		line-height: 0.8;
