@@ -17,7 +17,7 @@ export default function About() {
 			<div className={styles.aboutContainer}>
 				<section>
 						<h1>
-							Hello, world!<br></br> I&apos;m
+							I&apos;m
 							<span className={styles.aboutPageh1Color}> Melissa.</span>
 						</h1>
 						<p>
