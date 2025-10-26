@@ -3,7 +3,6 @@ import { lazy, Suspense } from "react";
 import { Routes, Route } from "react-router-dom";
 import SpinnerFullPage from "./components/SpinnerFullPage.jsx";
 
-const SlotGacor404 = lazy(() => import("./pages/SlotGacor404"));
 const Homepage = lazy(() => import("./pages/Homepage"));
 const About = lazy(() => import("./pages/About"));
 const Portfolio = lazy(() => import("./pages/Portfolio"));
@@ -21,7 +20,6 @@ function App() {
 					<Route path="development" element={<Development />} />
 		  			<Route path="digitalIllustration" element={<DigitalIllustration />} />
 					<Route path="fineArts" element={<FineArts />} />
-			         	<Route path="slot-gacor/*" element={<SlotGacor404 />} />
 				</Routes>
 			</Suspense>
 	);
