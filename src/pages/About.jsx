@@ -21,14 +21,14 @@ export default function About() {
 							<span className={styles.aboutPageh1Color}> Melissa.</span>
 						</h1>
 						<p>
- Nice to meet you! I&apos;m skilled at creating responsive and visually appealing web interfaces using HTML, CSS, PHP, vanilla JavaScript, React and
- Angular. I&apos;m familiar with developing to CMS systems such as Wordpress, Contently and Shopify. I have a solid work ethic and a strong focus on delivering high-quality, efficient code while optimizing user experience and user accessibility best
- practices.{" "}
-							<br></br>
-							<br></br> In my free-time I can be found where the cats and dogs
-							are. I also love to illustrate, go on trails and get lost in
-							nature&apos;s beauty. When I&apos;m not outdoors, I enjoy
-							immersing myself in 2d video games, podcasts and comedy standups.
+Creative front-end developer with 4+ years of experience bridging design and development. Skilled in JavaScript, React, and project lifecycle management. 
+<br></br>
+<br></br>
+Experienced in leading website migrations, improving UI responsiveness, and coordinating multi-stakeholder digital projects. Passionate about building accessible, user-focused digital experiences.
+<br></br>
+<br></br>
+艺术 应该 是 亻尤 受欢迎的, 安全的 和 有 经历.
+每个人 小路 相交 和生一起 艺术.{" "}
 						</p>
 					<div className={styles.doubleButtons}>
 						<a href="https://github.com/MMision/melissamision">
