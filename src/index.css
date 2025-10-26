@@ -70,7 +70,7 @@ body {
 		margin-top: 3rem;
 		font-weight: 700;
         font-family: "Noto Sans JP", sans-serif;
-		background-color: #1a1a1a;
+		background-color: #d3003d;
 		cursor: pointer;
 		transition: border-color 0.25s;
 		border: none;
@@ -81,7 +81,7 @@ body {
 	}
 	button:hover {
 		border: none;
-		background: #4ad9cf;
+		background: #d3003d;
 	}
 	button:focus,
 	button:focus-visible {
@@ -100,14 +100,14 @@ body {
 	}
 
 	.button-btnStyle {
-        background: linear-gradient(90deg, #4ad9cf, #ffffff 90%);
+        background: #d94a4a;
 		transform: translateY(0);
 		flex: 1 1 0;
 	}
 
 	.button-btnStyle::before {
 		/* background: linear-gradient(to right, #4ad9cf, #000345 90%); */
-		background: linear-gradient(to right, #000345, #4ad9cf 90%);
+		background: linear-gradient(to right, #000345, #d3003d 90%);
 		-webkit-transform: scaleY(0);
 		transform: scaleX(0);
 		-webkit-transform-origin: 50% 100%;
@@ -120,7 +120,7 @@ body {
 	}
 
 	.button-btnStyle:hover {
-		background: linear-gradient(to right, #4ad9cf, #000345 90%);
+		background: linear-gradient(to right, #d3003d, #000345 90%);
 		flex: 2 1 0;
 		color: white !important;
 		box-shadow: -2px 2px 4px 1px #000000a3;
