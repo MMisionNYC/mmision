@@ -2,15 +2,15 @@
   "routes": [
     {
       "src": "/Development",
-      "dest": "/Development.html"
+      "dest": "/Development.jsx"
     },
     {
       "src": "/DigitalIllustration",
-      "dest": "/DigitalIllustration.html"
+      "dest": "/DigitalIllustration.jsx"
     },
 {
       "src": "/FineArts",
-      "dest": "/FineArts.html"
+      "dest": "/FineArts.jsx"
 }
   ]
 }
