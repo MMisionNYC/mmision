@@ -10,7 +10,7 @@
 		display: flex;
 		flex-wrap: wrap;
 		flex: 100%;
-		height: fit-content;
+		height: fit-content;f
 		line-height: 1;
 	}
 	.classSection {
@@ -224,7 +224,7 @@
 }
 	.workAbout,
 	.workAboutGrid {
-		background-image: linear-gradient(270deg, rgb(0 145 213 / 0%), rgb(0 44 68 / 40%), rgb(1 0 53 / 83%)), url('/workpage-banner.jpg');
+		background-image: linear-gradient(270deg, #0091d500, #00243894, #000016ed), url('/workpage-banner.jpg');
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
