@@ -1,16 +1,16 @@
 {
   "routes": [
     {
-      "src": "./src/pages/Development",
-      "dest": "/Development.jsx"
+      "src": "/Development",
+      "dest": "/Development.html"
     },
     {
       "src": "/DigitalIllustration",
-      "dest": "./src/pages/DigitalIllustration.jsx"
+      "dest": "/DigitalIllustration.html"
     },
 {
       "src": "/FineArts",
-      "dest": "/FineArts.jsx"
+      "dest": "/FineArts.html"
 }
   ]
 }
