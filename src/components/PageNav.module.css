@@ -119,11 +119,11 @@
 	}
 	nav li:hover {
 		color: white;
-		border-bottom: 3px solid #4ad9cf;
+		border-bottom: 3px solid #d3003d;
 	}
 	/* CSS Modules feature */
 	nav a:global(.active) {
-		color: #4ad9cf;
+		color: #d3003d;
 	}
 
 	a.ctaLink:link,
