@@ -6,7 +6,7 @@ function Logo() {
 	return (
 	<div className={styles.NavLinkLogo}>
 		<Link to="/">
-			<img src="/logo.PNG" alt="Melissa Mision logo" className={styles.logo} />
+			<img src="/logo.png" alt="Melissa Mision logo" className={styles.logo} />
 		</Link>
 	</div>
 	);
