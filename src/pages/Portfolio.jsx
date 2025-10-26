@@ -25,12 +25,6 @@ export default function Portfolio() {
 								{" "}wander.
 							</span>
 						</h1>
-						<p>
-							Welcome to my portfolio site; thank you for visiting. There are three paths to explore. Development, Digital Illustration and Fine Arts. Development is largely websites and components I have developed.
-Digital illustration has digital drawings/concepts and animations. Fine arts has an assortment of traditionally created paintings, sketches and illustrations.<br></br>
-							<br></br>
-							Relax, take your time among what path(s) you choose.
-						</p>
 						</div>
 					</div>
 					<div className={styles.bannerContainer}>
