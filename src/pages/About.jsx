@@ -21,7 +21,7 @@ export default function About() {
 							<span className={styles.aboutPageh1Color}> Melissa.</span>
 						</h1>
 						<p>
-Creative front-end developer with 4+ years of experience bridging design and development. Skilled in JavaScript, React, and project lifecycle management. 
+Creative front-end developer with 5+ years of experience bridging design and development. Skilled in JavaScript, React, and project lifecycle management. 
 <br></br>
 <br></br>
 Experienced in leading website migrations, improving UI responsiveness, and coordinating multi-stakeholder digital projects. Passionate about building accessible, user-focused digital experiences.
