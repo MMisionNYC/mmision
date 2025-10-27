@@ -100,6 +100,15 @@ if (window.location.pathname === "/DigitalIllustration") {
 } else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
 		{
+			name: "Alone",
+			description:
+				"Sketch of park in Glendale.",
+			bulletName: "Created with:",
+			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
+			bulletPoints2: "Moleskin sketchbook",
+			imagePath: "/Alone.JPG",
+		},
+				{
 			name: "Air in my atmosphere",
 			description:
 				"Sketch of area in New Berlin.",
@@ -152,15 +161,6 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/MelancholyEyes.jpg",
-		},
-		{
-			name: "Alone",
-			description:
-				"Sketch of park in Glendale.",
-			bulletName: "Created with:",
-			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
-			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Alone.JPG",
 		},
 		{
 			name: "Moment",
