@@ -194,11 +194,7 @@ hr.gradient, hr, .gradient {
   margin-top: 4%;
   border: none;
   border-radius: 6px;
-  background: linear-gradient(
-    90deg,
-    #4ad9cf 0%,
-	#000345 100%
-  );
+    border-bottom: 3px solid #d3003d;
     width: 180px;
 	height: 2px;
 }
