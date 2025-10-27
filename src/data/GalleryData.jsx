@@ -197,15 +197,6 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/Illustration6.JPG",
 		},
-				{
-			name: "Visual Ghostwriting",
-			description:
-				"Sketch of Wisconsin neighorhood",
-			bulletName: "Created with:",
-			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
-			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/VisualGhostwriting.JPG",
-		},
 		{
 			name: "Puzzle Pieces",
 			description: "Acrylic on canvas",
