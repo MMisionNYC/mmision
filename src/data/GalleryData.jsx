@@ -124,7 +124,16 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Attraction.JPG",
+			imagePath: "/Attraction.jpg",
+		},
+		{
+			name: "Attraction",
+			description:
+				"Sketch of area in Pewaukee.",
+			bulletName: "Created with:",
+			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
+			bulletPoints2: "Moleskin sketchbook",
+			imagePath: "/Attraction.jpeg",
 		},
 		{
 			name: "Endless Times",
