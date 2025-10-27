@@ -223,7 +223,8 @@
         padding: 10rem 2rem 1rem 2rem;
 }
 	.workAbout,
-	.workAboutGrid {
+	.workAboutGrid,
+	.devDarkOverlay {
 		background-image: linear-gradient(270deg, #0091d500, #00243894, #000016ed), url('/workpage-banner.jpg');
 		background-size: cover;
 		background-repeat: no-repeat;
