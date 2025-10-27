@@ -108,7 +108,7 @@
 		cursor: pointer;
 		z-index: 15;
 		height: 100%;
-	    padding: 30% 0% 5% 0%;
+	    padding: 5% 0% 5% 0%;
 }
 .overlayNone {
 	flex: 33.33%;
