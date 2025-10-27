@@ -22,14 +22,6 @@ if (window.location.pathname === "/DigitalIllustration") {
 			imagePath: "/illustration5.JPG",
 		},
 		{
-			name: "Spaceship Member",
-			description: "Digital illustration created with wacom tablet.",
-			bulletName: "Created with:",
-			bulletPoints: "Wacom tablet",
-			bulletPoints2: "Photoshop",
-			imagePath: "/illustration2.JPG",
-		},
-		{
 			name: "Airplane in Space",
 			description: "Digital illustration created with wacom tablet.",
 			bulletName: "Created with:",
