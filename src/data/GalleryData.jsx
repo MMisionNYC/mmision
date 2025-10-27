@@ -2,7 +2,7 @@ import React from 'react';
 import CurrentPage from "../../src/components/CurrentPage.jsx";
 <CurrentPage />;
 let GalleryData = null;
-if (window.location.pathname === "/digitalIllustration") {
+if (window.location.pathname === "/DigitalIllustration") {
 	GalleryData = [
 		{
 			name: "Spaceship Crew",
@@ -105,7 +105,7 @@ if (window.location.pathname === "/digitalIllustration") {
 			imagePath: "/pixel7.jpg",
 		},
 	];
-} else if (window.location.pathname === "/fineArts") {
+} else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
 						{
 			name: "Air in my atmosphere",
