@@ -107,6 +107,7 @@
         width: 100%;
 		cursor: pointer;
 		z-index: 15;
+		height: 100%;
 	    padding: 30% 0% 5% 0%;
 }
 .overlayNone {
