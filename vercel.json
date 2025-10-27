@@ -1,16 +1,3 @@
 {
-  "routes": [
-    {
-      "src": "/Development",
-      "dest": "/Development.html"
-    },
-    {
-      "src": "/DigitalIllustration",
-      "dest": "/DigitalIllustration.html"
-    },
-{
-      "src": "/FineArts",
-      "dest": "/FineArts.html"
-}
-  ]
+  "rewrites": [{ "source": "/(.*)", "destination": "/" }]
 }
