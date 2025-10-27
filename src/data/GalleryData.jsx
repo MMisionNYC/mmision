@@ -114,7 +114,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Air_web.JPG",
+			imagePath: "/Air_web.jpg",
 		},
 				{
 			name: "Attraction",
@@ -123,7 +123,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/attraction.JPG",
+			imagePath: "/attraction.jpg",
 		},
 				{
 			name: "Endless Times",
@@ -132,7 +132,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/endless-times.JPG",
+			imagePath: "/endless-times.jpg",
 		},
 				{
 			name: "Natures Warmth",
@@ -141,7 +141,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/NaturesWarmth.JPG",
+			imagePath: "/NaturesWarmth.jpg",
 		},
 				{
 			name: "Steps",
@@ -150,7 +150,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/steps.JPG",
+			imagePath: "/steps.jpg",
 		},
 				{
 			name: "Melancholy Eyes",
@@ -159,7 +159,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/MelancholyEyes.JPG",
+			imagePath: "/MelancholyEyes.jpg",
 		},
 				{
 			name: "Alone",
@@ -177,7 +177,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Moment.JPG",
+			imagePath: "/Moment.jpg",
 		},
 				{
 			name: "Ordinary",
@@ -186,7 +186,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Ordinary.JPG",
+			imagePath: "/Ordinary.jpg",
 		},
 		{
 			name: "North Idlewild Ave",
