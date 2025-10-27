@@ -107,7 +107,7 @@ body {
 
 	.button-btnStyle::before {
 		/* background: linear-gradient(to right, #4ad9cf, #000345 90%); */
-		background: linear-gradient(to right, #000345, #d3003d 90%);
+		background: linear-gradient(to right, #000000, #d3003d 90%);
 		-webkit-transform: scaleY(0);
 		transform: scaleX(0);
 		-webkit-transform-origin: 50% 100%;
@@ -120,7 +120,7 @@ body {
 	}
 
 	.button-btnStyle:hover {
-		background: linear-gradient(to right, #d3003d, #000345 90%);
+		background: linear-gradient(to right, #d3003d, #000000 90%);
 		flex: 2 1 0;
 		color: white !important;
 		box-shadow: -2px 2px 4px 1px #000000a3;
