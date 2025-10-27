@@ -30,17 +30,23 @@ export default function Portfolio() {
 					<div className={styles.bannerContainer}>
 						<Link reloadDocument to={"/Development"}>
 							<div className={styles.dev}>
+							<div className={styles.devDarkOverlay}>
 								<h2>Development</h2>
+								</div>
 							</div>
 						</Link>
 						<Link reloadDocument to={"/DigitalIllustration"}>
 							<div className={styles.pixelArt}>
+							<div className={styles.devDarkOverlay}>
 								<h2>Digital Illustration</h2>
+								</div>
 							</div>
 						</Link>
 						<Link reloadDocument to={"/FineArts"}>
 							<div className={styles.fineArts}>
+							<div className={styles.devDarkOverlay}>
 								<h2>Fine Arts</h2>
+								</div>
 							</div>
 						</Link>
 					</div>
