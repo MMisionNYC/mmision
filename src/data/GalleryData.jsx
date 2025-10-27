@@ -99,7 +99,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 	];
 } else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
-						{
+		{
 			name: "Air in my atmosphere",
 			description:
 				"Sketch of area in New Berlin.",
@@ -108,7 +108,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/Air_web.jpg",
 		},
-				{
+		{
 			name: "Attraction",
 			description:
 				"Sketch of area in Pewaukee.",
@@ -117,7 +117,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/attraction.JPG",
 		},
-				{
+		{
 			name: "Endless Times",
 			description:
 				"Sketch of Port Washington area.",
@@ -126,7 +126,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/endless-times.jpg",
 		},
-				{
+		{
 			name: "Natures Warmth",
 			description:
 				"Sketch of Doctor's Park.",
@@ -135,7 +135,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/NaturesWarmth.jpg",
 		},
-				{
+		{
 			name: "Steps",
 			description:
 				"Sketch of Doctor's Park",
@@ -144,7 +144,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/steps.jpg",
 		},
-				{
+		{
 			name: "Melancholy Eyes",
 			description:
 				"Sketch of area in New Berlin.",
@@ -153,7 +153,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/MelancholyEyes.jpg",
 		},
-				{
+		{
 			name: "Alone",
 			description:
 				"Sketch of park in Glendale.",
@@ -162,7 +162,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/Alone.JPG",
 		},
-				{
+		{
 			name: "Moment",
 			description:
 				"Sketch of Mequon Nature Preserve",
@@ -171,7 +171,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/Moment.jpg",
 		},
-				{
+		{
 			name: "Ordinary",
 			description:
 				"Sketch of Mequon Nature Preserve",
