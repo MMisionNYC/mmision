@@ -123,7 +123,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/attraction.jpg",
+			imagePath: "/attraction.JPG",
 		},
 				{
 			name: "Endless Times",
