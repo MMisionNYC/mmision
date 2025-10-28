@@ -248,8 +248,7 @@
 		padding-top: 0%;
 	}
 	.workAboutGrid {
-		background-image: linear-gradient(270deg, rgb(0 145 213 / 0%), rgb(0 44 68 / 40%), rgb(1 0 53 / 83%)), url('/workAboutGrid.JPG');
-
+		background-image: linear-gradient(270deg, #0091d500, #00000066, #000000d4), url('/workAboutGrid.JPG');
 	}
 	.workAbout {
 		border-bottom: 3px solid black;
