@@ -12,7 +12,6 @@ export default function About() {
 				<meta name="description" content="About Melissa Mision, contact, resume and github information." />
 				<meta property="og:image" content="https://www.melissamision.com/aboutPage-Container-Background.jpg" />
 			  </Helmet>
-						<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WDNYYB8KSK"></script>
 <script>
 		window.dataLayer = window.dataLayer || [];
