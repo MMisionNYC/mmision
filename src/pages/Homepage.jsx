@@ -15,7 +15,6 @@ export default function Homepage() {
         <link rel="canonical" href="https://www.melissamision.com/" />
 	<meta property="og:image" content="https://www.melissamision.com/homepage-background.jpg" />
       </Helmet>
-		<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WDNYYB8KSK"></script>
 <script>
 		window.dataLayer = window.dataLayer || [];
