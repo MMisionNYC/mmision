@@ -16,7 +16,6 @@ export default function DigitalArt() {
 				<meta name="description" content="Digital illustrations done by Melissa Mision. Created with Aseprite, Photoshop, Wacom Intuos Tablet." />
 				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
 			  </Helmet>
-						<!-- Google tag (gtag.js) -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WDNYYB8KSK"></script>
 <script>
 		window.dataLayer = window.dataLayer || [];
