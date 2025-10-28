@@ -26,7 +26,7 @@
 
 @media only screen and (min-width: 1px) {
 	.homepage {
-		background-image: linear-gradient(270deg, #0091d500, #00243894, #000016ed), url(/homepage-background.jpg);
+		background-image: linear-gradient(270deg, #0091d500, #00000094, #000000e3), url(/homepage-background.jpg);
 		background-size: cover;
 		background-position: center;
 		display: block;
