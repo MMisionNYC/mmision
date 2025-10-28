@@ -13,13 +13,6 @@ export default function Portfolio() {
 			<meta name="description" content="Melissa Mision's professional portfolio, featuring works from development, fine arts and digital illustration." />
 			<meta property="og:image" content="https://www.melissamision.com/workpage-banner.jpg" />
 			</Helmet>
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WDNYYB8KSK"></script>
-<script>
-		window.dataLayer = window.dataLayer || [];
- 		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-  		gtag('config', 'G-WDNYYB8KSK');
-</script>
 		<main className={styles.workPage}>
 			<PageNav />
 			<div className={styles.workContainer}>
