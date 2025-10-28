@@ -21,7 +21,7 @@ export default function Homepage() {
 					<span className="homePageHeaderh1Spacing">Let&apos;s create</span>
 					<br />
 					<span className="homePageHeaderh1">something </span>
-					<span className="highlightWord">captivating.</span>
+					<span id="highlight" className="highlightWord">captivating.</span>
 				</h1>
 				<Link to="/portfolio">
 					<button className="button-btnStyle">
