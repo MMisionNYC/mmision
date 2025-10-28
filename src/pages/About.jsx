@@ -12,13 +12,6 @@ export default function About() {
 				<meta name="description" content="About Melissa Mision, contact, resume and github information." />
 				<meta property="og:image" content="https://www.melissamision.com/aboutPage-Container-Background.jpg" />
 			  </Helmet>
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WDNYYB8KSK"></script>
-<script>
-		window.dataLayer = window.dataLayer || [];
- 		function gtag(){dataLayer.push(arguments);}
-  		gtag('js', new Date());
-  		gtag('config', 'G-WDNYYB8KSK');
-</script>
 		<main className={styles.aboutPage}>
 			<PageNav />
 			<div className={styles.aboutContainer}>
