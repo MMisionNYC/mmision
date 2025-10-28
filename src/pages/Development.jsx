@@ -13,6 +13,14 @@ export default function Development() {
 				<meta name="description" content="Development projects by Melissa Mision" />
 				<meta property="og:image" content="https://www.melissamision.com/workAboutGrid.JPG" />
 			  </Helmet>
+						<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-WDNYYB8KSK"></script>
+<script>
+		window.dataLayer = window.dataLayer || [];
+ 		function gtag(){dataLayer.push(arguments);}
+  		gtag('js', new Date());
+  		gtag('config', 'G-WDNYYB8KSK');
+</script>
 			<main className={styles.workPageGrid}>
 			<PageNav />
 			<div className={styles.workContainer}>
