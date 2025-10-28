@@ -178,7 +178,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletName: "Created with:",
 			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
 			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Ordinary.jpg",
+			imagePath: "/ordinary.jpg",
 		},
 		{
 			name: "North Idlewild Ave",
