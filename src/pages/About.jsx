@@ -4,6 +4,15 @@ import PageNav from "../components/PageNav";
 import styles from "./About.module.css";
 
 export default function About() {
+	    const onButtonClick = () => {
+        const pdfUrl = "resume.pdf";
+        const link = document.createElement("a");
+        link.href = pdfUrl;
+        link.download = "resume.pdf";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
 	return (
 			<>
 			  <Helmet>
@@ -38,7 +47,7 @@ Experienced in leading website migrations, improving UI responsiveness, and coor
 						</button>
 						</a>
 						<a href="https://drive.google.com/file/d/1jG69oGKZTFYEzmtyJgQhpRFnYqxgK7Xp/view?usp=sharing">
-						<button className="button-btnStyle">
+						<button onClick={onButtonClick} className="button-btnStyle">
 						{/* <ButtonLoad /> */}
 						<div className={styles.btnText}>Resume</div>
 					</button>
