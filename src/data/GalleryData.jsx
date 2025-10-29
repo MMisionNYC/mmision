@@ -99,15 +99,6 @@ if (window.location.pathname === "/DigitalIllustration") {
 	];
 } else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
-		{
-			name: "Alone",
-			description:
-				"Sketch of park in Glendale.",
-			bulletName: "Created with:",
-			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
-			bulletPoints2: "Moleskin sketchbook",
-			imagePath: "/Alone.JPG",
-		},
 				{
 			name: "Air in my atmosphere",
 			description:
@@ -125,6 +116,24 @@ if (window.location.pathname === "/DigitalIllustration") {
 			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
 			bulletPoints2: "Moleskin sketchbook",
 			imagePath: "/Attraction.jpg",
+		},
+		{
+			name: "Capitalizing Pain",
+			description:
+				"Sketch of an apartment complex",
+			bulletName: "Created with:",
+			bulletPoints: "Uniball Signo UM-151 Gel Pen 0.38mm Bordeaux Black pen",
+			bulletPoints2: "Moleskin sketchbook",
+			imagePath: "/capitalizingPain.jpg",
+		},
+		{
+			name: "Alone",
+			description:
+				"Sketch of park in Glendale.",
+			bulletName: "Created with:",
+			bulletPoints: "Uniball signo 207 0.77mm blue gel pen",
+			bulletPoints2: "Moleskin sketchbook",
+			imagePath: "/Alone.JPG",
 		},
 		{
 			name: "Endless Times",
