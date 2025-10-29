@@ -99,6 +99,15 @@ if (window.location.pathname === "/DigitalIllustration") {
 	];
 } else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
+		{
+			name: "Awake Now",
+			description:
+				"Quick small sketch",
+			bulletName: "Created with:",
+			bulletPoints: "Uniball Signo pens",
+			bulletPoints2: "Sketchbook",
+			imagePath: "/awakeNow.jpg",
+		},
 				{
 			name: "Air in my atmosphere",
 			description:
