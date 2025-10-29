@@ -46,7 +46,7 @@ Experienced in leading website migrations, improving UI responsiveness, and coor
 						<div className={styles.btnText}>GitHub</div>
 						</button>
 						</a>
-						<a href="https://drive.google.com/file/d/1jG69oGKZTFYEzmtyJgQhpRFnYqxgK7Xp/view?usp=sharing">
+						<a>
 						<button onClick={onButtonClick} className="button-btnStyle">
 						{/* <ButtonLoad /> */}
 						<div className={styles.btnText}>Resume</div>
