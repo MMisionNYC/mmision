@@ -55,15 +55,25 @@
 	.PageNav {
 		background-color: transparent;
 	}
-	.MobileBack {
-        /* background-color: black; */
-        display: inline-flex;
+	.MobileBackgroundNone {
+		background-color: none;
+		display: inline-flex;
         width: 100% !important;
         flex: 100% 1;
         position: absolute;
         top: 10%;
         padding: 10%;
     }
+	.MobileBack {
+		background-color: black;
+		display: inline-flex;
+        width: 100% !important;
+        flex: 100% 1;
+        position: absolute;
+        top: 10%;
+        padding: 10%;
+	}
+	.MobileBackgroundNone > li,
 	.MobileBack > li {
 		display: inline-flex;
 		flex: 100%;
