@@ -72,6 +72,7 @@
         position: absolute;
         top: 10%;
         padding: 10%;
+		border-bottom: 5px solid #d94a4a;
 	}
 	.MobileBack nav {
 		padding-top: 18%;
