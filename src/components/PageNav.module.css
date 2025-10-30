@@ -73,6 +73,9 @@
         top: 10%;
         padding: 10%;
 	}
+	.MobileBack nav {
+		padding-top: 18%;
+	}
 	.MobileBackgroundNone > li,
 	.MobileBack > li {
 		display: inline-flex;
