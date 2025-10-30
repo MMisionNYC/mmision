@@ -19,7 +19,7 @@ size="30px" color="white" position="absolute" right="10%" cursor ="pointer" onCl
 return (
 	<nav className={styles.MobileNavigation}>
 	<Logo />
-	<div className={styles.MobileBack}>
+	<div className={`${click ? styles["MobileBack"] : styles["MobileBackgroundNone"]}`}>
 	{ click ? Close : Hamburger }
 	{click && <NavLinks isClicked={true} closeMenu={closeMenu}/>}
 	</div>
