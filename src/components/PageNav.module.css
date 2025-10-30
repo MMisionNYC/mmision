@@ -47,6 +47,7 @@
 		position: absolute !important;
 		right: 10%;
 		cursor: pointer;
+	    color: #d94a4a;
 		z-index: 1000;
 	}
 	svg.HamburgerMenu {
