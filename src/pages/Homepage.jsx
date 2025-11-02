@@ -26,7 +26,7 @@ export default function Homepage() {
 				<Link to="/portfolio">
 					<button className="button-btnStyle">
 						{/* <ButtonLoad /> */}
-						<div className={styles.btnText}>work</div>
+						<div className={styles.btnText}>gallery</div>
 					</button>
 				</Link>
 			</section>
