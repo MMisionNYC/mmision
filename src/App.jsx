@@ -6,7 +6,6 @@ import SpinnerFullPage from "./components/SpinnerFullPage.jsx";
 const Homepage = lazy(() => import("./pages/Homepage"));
 const About = lazy(() => import("./pages/About"));
 const Portfolio = lazy(() => import("./pages/Portfolio"));
-const Artclasses = lazy(() => import("./pages/Artclasses"));
 const Development = lazy(() => import("./pages/Development"));
 const DigitalIllustration = lazy(() => import("./pages/DigitalIllustration"));
 const FineArts = lazy(() => import("./pages/FineArts"));
@@ -18,7 +17,6 @@ function App() {
 					<Route index element={<Homepage />} />
 					<Route path="about" element={<About />} />
 					<Route path="portfolio" element={<Portfolio />} />
-					<Route path="artclasses" element={<Artclasses />} />
 					<Route path="development" element={<Development />} />
 		  			<Route path="digitalIllustration" element={<DigitalIllustration />} />
 					<Route path="fineArts" element={<FineArts />} />
