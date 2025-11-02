@@ -39,8 +39,6 @@ export default function Artclasses() {
 							<p className={styles.classParagraph}>
 								1. Traditional drawing <br></br>
 								2. Traditional painting <br></br>
-								3. Digital drawing <br></br>
-								4. Digital painting
 							</p>
 						</div>
 						<div className={styles.classGroup}>
