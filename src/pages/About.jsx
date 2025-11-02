@@ -4,26 +4,15 @@ import PageNav from "../components/PageNav";
 import styles from "./About.module.css";
 
 export default function About() {
-	   //  const onButtonClick = () => {
-    //     const pdfUrl = "./resume.pdf";
-    //     const link = document.createElement("a");
-    //     link.href = pdfUrl;
-    //     link.download = "resume.pdf";
-    //     document.body.appendChild(link);
-    //     link.click();
-    //     document.body.removeChild(link);
-    // };
-const onButtonClick = () => {
-fetch("resume.pdf") // Replace with your PDF URL
-.then((response) => response.blob())
-.then((blob) => {
-const fileURL = window.URL.createObjectURL(blob);
-const link = document.createElement("a");
-link.href = fileURL;
-link.download = "DownloadedFile.pdf";
-link.click();
-});
-};
+	    const onButtonClick = () => {
+        const pdfUrl = "https://mmision.com/resume.pdf";
+        const link = document.createElement("a");
+        link.href = pdfUrl;
+        link.download = "resume.pdf";
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+    };
 	return (
 			<>
 			  <Helmet>
