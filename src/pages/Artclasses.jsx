@@ -75,21 +75,11 @@ export default function Artclasses() {
 								standard pencils, mechanical pencils and whatever pens I found
 								lying around.
 								<br></br>
-								<br></br>Growing up, I always wondered what kind of art supplies
-								artists I looked up to were using, and wondered if I
-								wouldn&apos;t be able to create something as beautiful if I
-								didn&apos;t have the same supplies.
-								<br></br>
-								<br></br>I have gotten to use a variety of art brands since
-								then. While some brands perform differently in a variety of
-								ways, you can use any brand that you have on hand to create
-								meaningful art. You alone are enough to create beautiful art.
-								<br></br>
 								<br></br>
 								The person is what makes the art, not the material. Please
 								don&apos;t feel nervous or apprehensive to sign up for an art
 								class because of whatever art supplies you may or may not have
-								on hand.
+								on hand. We will make art with what you have available and on hand!
 							</p>
 						</div>
 					</div>
