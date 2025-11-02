@@ -13,9 +13,9 @@ import PropTypes from 'prop-types';
 				{/* <li>
 					<NavLink to="/contact">contact</NavLink>
 				</li> */}
-				<li>
+				{/* <li>
 					<NavLink to="/artclasses">art classes</NavLink>
-				</li>
+				</li> */}
 				<li onClick={() => isClicked && closeMenu()}>
 					<NavLink to="/about">about</NavLink>
 				</li>
