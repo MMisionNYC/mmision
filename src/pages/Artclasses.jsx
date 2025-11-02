@@ -89,21 +89,7 @@ export default function Artclasses() {
 						<div className={styles.welcomeGroup}>
 							<h3>Welcoming Art Classes</h3>
 							<p className={styles.welcomeParagraph}>
-								I want to foster an environment that is kind, comfortable and
-								welcoming. Bullying, racism and harassment of any kind are not
-								welcome. If anyone engages in any of these behaviors, I will
-								take a moment to pause the class to address the behavior. I want
-								to make sure the individual(s) know that the behavior is not
-								allowed, and so that they can take a moment to pause and
-								understand how deep of an impact their words or actions could
-								have on someone&apos;s wellbeing.
-								<br></br>
-								<br></br>
-								Once they have acknowledged and apologized for their actions we
-								can resume class. Its important to address these situations when
-								they happen so that we can learn and grow from them. If the
-								behavior continues to happen after acknowledging it, the
-								individual will be removed from the class.
+				
 							</p>
 						</div>
 						<div className={styles.webicon4}></div>
