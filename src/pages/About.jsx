@@ -5,7 +5,7 @@ import styles from "./About.module.css";
 
 export default function About() {
 	    const onButtonClick = () => {
-        const pdfUrl = "../src/pages/resume.pdf";
+        const pdfUrl = "./resume.pdf";
         const link = document.createElement("a");
         link.href = pdfUrl;
         link.download = "resume.pdf";
