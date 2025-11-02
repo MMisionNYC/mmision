@@ -18,9 +18,9 @@ export default function Homepage() {
 			<PageNav />
 			<section>
 				<h1>
-					<span className="homePageHeaderh1Spacing">Let&apos;s create</span>
+					<span className="homePageHeaderh1Spacing">Art should</span>
 					<br />
-					<span className="homePageHeaderh1">something </span>
+					<span className="homePageHeaderh1">be </span>
 					<span id="highlight" className="highlightWord">captivating.</span>
 				</h1>
 				<Link to="/portfolio">
