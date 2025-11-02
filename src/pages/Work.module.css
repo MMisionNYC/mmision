@@ -17,13 +17,7 @@
 	}
 	.materialSection {
 		height: fit-content !important;
-		background-image: linear-gradient(
-				344deg,
-				rgb(0 145 213 / 59%),
-				rgb(0 44 68 / 87%),
-				rgb(1 0 53 / 90%)
-			),
-			url('/fineArt10.JPG');
+		background-image: linear-gradient(270deg,#0091d500,#00000094,#000000e3), url('/AttractionBW.jpg');
 		background-size: cover;
 		background-repeat: no-repeat;
 		/* background-color: #03173e; */
