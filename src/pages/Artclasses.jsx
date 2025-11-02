@@ -19,19 +19,13 @@ export default function Artclasses() {
 								</span>
 							</h1>
 							<p>
-								I love to draw, and I&apos;m a firm believer that anyone can
-								draw and that all it takes is practice, patience (with yourself
-								most importantly), and an understanding of some starting art
-								principles (things like form, shapes, contrast, etc). There is
-								no &quot;end point&quot; with art; artist&apos;s skills and form
-								of expression continue to grow and change throughout their
-								lifetime.
+
 								<br></br>
 								<br></br>
-								The thing that is so beautiful about art is that it&apos;s an
+								{/* The thing that is so beautiful about art is that it&apos;s an
 								unique expression of someone&apos;s story and experience. I
 								would love to help support and guide anyone on their artistic
-								journey and growth.
+								journey and growth. */}
 							</p>
 						</div>
 					</div>
@@ -55,16 +49,15 @@ export default function Artclasses() {
 							<h3>Class sizes</h3>
 							<p className={styles.classParagraph}>
 								1. One-to-one live instruction <br></br>
-								Duration: 1 hour <br></br>Cost: $10
+								Duration: 1 hour <br></br>
 								<br></br>
 								<br></br>2. Five-to-one live instruction
 								<br></br>
-								Duration: 1 hour <br></br>Cost: $8 per person<br></br>
+								Duration: 1 hour <br></br><br></br>
 								<br></br>
 								3. Eight-to-one live instruction
 								<br></br>
 								Duration: 1 hour<br></br>
-								Cost: $5 per person
 							</p>
 						</div>
 					</div>
