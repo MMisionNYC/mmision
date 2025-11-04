@@ -103,6 +103,7 @@ body {
         background: #d94a4a;
 		transform: translateY(0);
 		flex: 1 1 0;
+		height: 40px;
 	}
 
 	.button-btnStyle::before {
