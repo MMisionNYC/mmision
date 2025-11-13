@@ -31,10 +31,10 @@ export default function Homepage() {
 					</button>
 				</Link>
 			</section>
+		</main>
 			<section>
 				<GalleryList />
 			</section>
-		</main>
 			</>
 	);
 }
