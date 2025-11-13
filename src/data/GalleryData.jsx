@@ -338,7 +338,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			imagePath: "/portfolio-website-2.JPG",
 		},
 	];
-else {
+} else {
 	GalleryData = [
 		{
 			name: "Custom Wordpress Template",
