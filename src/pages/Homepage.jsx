@@ -19,10 +19,10 @@ export default function Homepage() {
 			<PageNav />
 			<section>
 				<h1>
-					<span className="homePageHeaderh1Spacing">Art should</span>
+					<span className="homePageHeaderh1Spacing">Technology and art</span>
 					<br />
-					<span className="homePageHeaderh1">be </span>
-					<span id="highlight" className="highlightWord">captivating.</span>
+					<span className="homePageHeaderh1">always </span>
+					<span id="highlight" className="highlightWord">intersect.</span>
 				</h1>
 				<Link to="/portfolio">
 					<button className="button-btnStyle">
