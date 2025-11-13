@@ -33,7 +33,8 @@
 		display: block;
 		position: relative;
 		min-width: 100vw;
-		min-height: 100vh;
+		min-height: 80vh;
+    	max-height: 80vh;
 		overflow: auto;
 	}
 .gradientStyle {
