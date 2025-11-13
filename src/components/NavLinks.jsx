@@ -20,7 +20,7 @@ import PropTypes from 'prop-types';
 					<NavLink to="/artclasses">art classes</NavLink>
 				</li> */}
 				<li onClick={() => isClicked && closeMenu()}>
-					<NavLink to="/about">about</NavLink>
+					<NavLink to="/about">about me</NavLink>
 				</li>
 			</ul>
 		</nav>
