@@ -8,6 +8,9 @@ import PropTypes from 'prop-types';
 		<nav className={styles.NavLinks}>
 			<ul>
 				<li onClick={() => isClicked && closeMenu()}>
+					<NavLink to="/homepage">home</NavLink>
+				</li>
+				<li onClick={() => isClicked && closeMenu()}>
 					<NavLink to="/portfolio">portfolio</NavLink>
 				</li>
 				{/* <li>
