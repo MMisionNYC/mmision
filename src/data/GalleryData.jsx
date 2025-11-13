@@ -300,7 +300,7 @@ if (window.location.pathname === "/DigitalIllustration") {
 			imagePath: "/fineArt9.JPG",
 		},
 	];
-} elseif (window.location.pathname === "/Homepage") {
+} else if (window.location.pathname === "/Homepage") {
 	GalleryData = [
 		{
 			name: "Custom Wordpress Template",
