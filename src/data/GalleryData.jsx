@@ -300,7 +300,45 @@ if (window.location.pathname === "/DigitalIllustration") {
 			imagePath: "/fineArt9.JPG",
 		},
 	];
-} else {
+} elseif (window.location.pathname === "/Homepage") {
+	GalleryData = [
+		{
+			name: "Custom Wordpress Template",
+			description: "A custom wordpress template I developed from scratch.",
+			bulletName: "Languages used:",
+			bulletPoints: "javaScript",
+			bulletPoints2: "PHP",
+			imagePath: "/dev-banner-background.JPG",
+		},
+		{
+			name: "WristbandsOnline - Homepage Redevelopment",
+			description:
+				"This was written in javaScript and ruby with Shopify as the CSM.",
+			bulletName: "Languages used:",
+			bulletPoints: "javaScript",
+			bulletPoints2: "Ruby",
+			imagePath: "/portfolio-website-1.JPG",
+		},
+		{
+			name: "WristbandsOnline - Custom Image Slider",
+			description:
+				"This was written in javaScript and ruby with Shopify as the CSM.",
+			bulletName: "Languages used:",
+			bulletPoints: "javaScript",
+			bulletPoints2: "Ruby",
+			imagePath: "/portfolio-website-3.JPG",
+		},
+		{
+			name: "Portfolio Site",
+			description:
+				"This was written in react.js with vite as the data management tool, deployed with netlify.",
+			bulletName: "Languages used:",
+			bulletPoints: "javaScript/react",
+			bulletPoints2: "html/CSS",
+			imagePath: "/portfolio-website-2.JPG",
+		},
+	];
+else {
 	GalleryData = [
 		{
 			name: "Custom Wordpress Template",
