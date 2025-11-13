@@ -15,6 +15,7 @@ function App() {
 			<Suspense fallback={<SpinnerFullPage />}>
 				<Routes>
 					<Route index element={<Homepage />} />
+					<Route path="homepage" element={<Homepage />} />
 					<Route path="about" element={<About />} />
 					<Route path="portfolio" element={<Portfolio />} />
 					<Route path="development" element={<Development />} />
