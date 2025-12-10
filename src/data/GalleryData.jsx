@@ -92,6 +92,15 @@ if (window.location.pathname === "/DigitalIllustration") {
 } else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
 		{
+			name: "In sync",
+			description:
+				"you caught the reference quickly",
+			bulletName: "Created with:",
+			bulletPoints: "Uniball Signo pens",
+			bulletPoints2: "Sketchbook",
+			imagePath: "/inSync.jpg",
+		},
+		{
 			name: "Collusion in emotions",
 			description:
 				"Quicker sketch",
