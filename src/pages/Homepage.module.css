@@ -68,6 +68,7 @@
         width: fit-content;
 		backdrop-filter: blur(4px);
         padding: 20px 40px;
+		border-bottom: 2px solid #d94a4a;
     }
 	.homepage h1 {
 		line-height: 1.25;
