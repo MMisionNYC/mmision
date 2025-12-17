@@ -65,7 +65,9 @@
         top: 55%;
 		left: 3rem;
         transform: translate(0%, -45%);
-        width: 20rem;
+        width: fit-content;
+		backdrop-filter: blur(4px);
+        padding: 20px 40px;
     }
 	.homepage h1 {
 		line-height: 1.25;
@@ -81,8 +83,5 @@
 @media only screen and (min-width: 800px) {
 	.homepage h1 {
         line-height: 1;
-	}
-	.homepage section {
-		width: 50rem;
 	}
 }
