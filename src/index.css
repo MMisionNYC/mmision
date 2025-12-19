@@ -23,7 +23,8 @@ body {
 	height: 100%;
 	max-width: 100%;
 	overflow-x: hidden;
-	font-family: "DM Serif Display", serif;
+	font-family: "PT Sans Narrow", sans-serif;
+	/* font-family: "DM Serif Display", serif; */
 	/* font-family: "Unna", serif; */
 	font-weight: 400;
 }
