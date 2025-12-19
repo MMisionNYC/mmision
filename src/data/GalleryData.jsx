@@ -92,6 +92,15 @@ if (window.location.pathname === "/DigitalIllustration") {
 } else if (window.location.pathname === "/FineArts") {
 	GalleryData = [
 		{
+			name: "Love is a Tree Longing",
+			description:
+				"new york",
+			bulletName: "Created with:",
+			bulletPoints: "POSCA Uniball Markers",
+			bulletPoints2: "Sketchbook",
+			imagePath: "/loveIsATreeLonging.jpg",
+		},
+		{
 			name: "In sync",
 			description:
 				"you caught the reference quickly",
