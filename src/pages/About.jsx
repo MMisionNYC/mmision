@@ -34,10 +34,6 @@ Creative front-end developer with 5+ years of experience bridging design and dev
 <br></br>
 <br></br>
 Experienced in leading website migrations, improving UI responsiveness, and coordinating multi-stakeholder digital projects. Passionate about building accessible, user-focused digital experiences.
-<br></br>
-<br></br>
-艺术 应该 是 亻尤 受欢迎的, 安全的 和 有 经历.
-每个人 小路 相交 和生一起 艺术.{" "}
 						</p>
 					<div className={styles.doubleButtons}>
 						<a href="https://github.com/MMisionNYC?tab=repositories">
